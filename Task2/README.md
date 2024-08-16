@@ -2,11 +2,6 @@
 
 This project is a **Credit Card Fraud Detection** system implemented using a Logistic Regression machine learning model. The goal of the project is to detect fraudulent transactions from a dataset of credit card transactions.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Results](#results)
 
 ## Introduction
 
@@ -14,7 +9,7 @@ Credit card fraud is a significant issue in the financial industry. The purpose 
 
 ## Dataset
 
-The dataset used in this project is the [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly imbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
+The dataset used in this analysis is the [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It contains transactions made by credit cards in September 2013 by European cardholders. The dataset is highly imbalanced, with the positive class (frauds) accounting for 0.172% of all transactions.
 
 **Features:**
 - `Time`: The time elapsed between this transaction and the first transaction in the dataset.
